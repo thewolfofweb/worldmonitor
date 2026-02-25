@@ -365,7 +365,13 @@ canvas,
   opacity: 1;
 }
 
+@font-face {
+  font-family: "Aeonik";
+  src: url("./aeonik.otf");
+}
+
 .logo {
+  font-family: 'Aeonik'; 
   font-weight: bold;
   font-size: 14px;
   letter-spacing: 2px;
